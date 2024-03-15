@@ -240,10 +240,10 @@ draw_graphs <- function(excelfile, bin_angle) {
 ############################# end of hearing_library ##########################
 
 # "Angle dataset.xlsx" for the original data
-# "Explants_Vangl2.xlsx" for simulation for 4 specimens
+# "Angle dataset2.xlsx" for simulation for 4 specimens
 
 bin_angle = 10
-excelfile = "Explants_Vangl2.xlsx"
+excelfile = "Angle dataset2.xlsx"
 
 (draw_graphs(excelfile, bin_angle))
 
